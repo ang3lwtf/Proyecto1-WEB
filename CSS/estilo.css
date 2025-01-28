@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(166, 191, 207);
+}
+img{
+    width: 250px;
+    height: 500px;
+}
+#img1{
+    width:500px;
+    height:500px;
+    border-radius:81px;
+}
+#botoncito{
+    color: rosybrown;
+    background: brown;
+    font-family: Arial;
+    font-size: larger;
+    width: 3097px;
+    border-color: rgb(235, 122, 69);
+    border-radius: 3176332px;
+    cursor: all-scroll;
+    background-color: aquamarine;
+}
+
+nav{
+    background-color:rgb(20, 212, 226);
+    color: rgb(240, 255, 252);
+    text-align: center;
+}
+li{
+    list-style:none;
+}
+nav ul li{
+    display: inline;
+    font-size:30px;
+}
+
+a{
+    color:bisque;
+    text-decoration: none;/*Quita el subrayado*/
+}
+
+nav ul li a{
+    padding: 4px;
+}
+a:hover {
+    background-color:grey;
+}
